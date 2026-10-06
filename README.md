@@ -6,7 +6,7 @@ A comprehensive collection of data analysis and cleaning exercises using **Pytho
 
 ## Table of Contents
 
-- [Overview](#overview)
+- Overview
 - [Projects](#projects)
   - [Exercise 1: E-Commerce Customer Analysis](#exercise-1-e-commerce-customer-analysis)
   - [Exercise 2: Hospital Patient Data Cleaning](#exercise-2-hospital-patient-data-cleaning)
