@@ -7,19 +7,17 @@ A comprehensive collection of data analysis and cleaning exercises using **Pytho
 ## Table of Contents
 
 - Overview
-- [Projects](#projects)
-  - [Exercise 1: E-Commerce Customer Analysis](#exercise-1-e-commerce-customer-analysis)
-  - [Exercise 2: Hospital Patient Data Cleaning](#exercise-2-hospital-patient-data-cleaning)
-  - [Exercise 3: Banking Customer Transaction Analysis](#exercise-3-banking-customer-transaction-analysis)
-  - [Exercise 4: Energy Consumption Analysis](#exercise-4-energy-consumption-analysis)
-- [Technologies Used](#technologies-used)
-- [Key Skills Demonstrated](#key-skills-demonstrated)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- Projects
+  - Exercise 1: E-Commerce Customer Analysis
+  - Exercise 2: Hospital Patient Data Cleaning
+  - Exercise 3: Banking Customer Transaction Analysis
+  - Exercise 4: Energy Consumption Analysis
+- Technologies Used
+- Key Skills Demonstrated
+- Installation
+- Project Structure
+- License
+- Contact
 
 ---
 
