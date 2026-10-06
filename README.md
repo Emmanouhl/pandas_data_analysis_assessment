@@ -175,6 +175,23 @@ This repository showcases practical data analysis skills applied to four differe
 
 ---
 
+## NumPy Concepts Covered
+
+Concept Functions / Methods Used
+Data Loading pd.read_csv(), pd.DataFrame()
+Data Inspection .head(), .shape, .info(), .describe()
+Missing Values .isnull(), .sum(), .dropna(), .fillna()
+Data Type Conversion pd.to_numeric(), .astype()
+String Operations .str.title(), .str.contains(), .replace(), .unique()
+Duplicates .duplicated(), .drop_duplicates()
+Filtering Boolean masks, .between(), ~ operator
+Grouping .groupby(), .agg(), .value_counts(), .mode()
+Conditional Columns np.where()
+Sorting .sort_values()
+Reshaping .reset_index(), .to_string()
+Formatting f-strings, .round(), .apply()
+
+
 ## Installation
 
 1. **Clone the repository:**
@@ -200,3 +217,29 @@ pandas-data-analysis-assessments/
 │   └── Energy_Consumption.csv
 │
 └── requirements.txt
+
+Author
+
+Mustapha Emmanuel Oladeji
+
+📧 Email: [mustaphaemmanuelola@gmail.com]
+🔗 LinkedIn: [https://linkedin.com/in/mustaphaemmanouelola]
+🐙 GitHub: [https://github.com/Emmanouhl]
+
+---
+
+Acknowledgments
+
+This project was completed as part of the Python Study Group – Lesson 16: Pandas Data Analysis hands-on practice.
+
+---
+
+License
+
+This project is open for educational and portfolio purposes.
+
+---
+
+Built with Pandas – Turning raw data into business intelligence.
+
+Happy Analyzing!
