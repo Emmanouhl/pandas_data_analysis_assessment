@@ -1,4 +1,4 @@
-[table_20261006.csv](https://github.com/user-attachments/files/33101264/table_20261006.csv)# Pandas Data Analysis Assessments
+# Pandas Data Analysis Assessments
 
 A comprehensive collection of data analysis and cleaning exercises using **Python** and **Pandas**. This repository contains four real-world business scenarios covering e-commerce, healthcare, banking, and energy sectors.
 
@@ -190,21 +190,6 @@ Conditional Columns np.where()
 Sorting .sort_values()
 Reshaping .reset_index(), .to_string()
 Formatting f-strings, .round(), .apply()
-
-[UploadinConcept,Functions / Methods Used
-Data Loading,"pd.read_csv(), pd.DataFrame()"
-Data Inspection,".head(), .shape, .info(), .describe()"
-Missing Values,".isnull(), .sum(), .dropna(), .fillna()"
-Data Type Conversion,"pd.to_numeric(), .astype()"
-String Operations,".str.title(), .str.contains(), .replace(), .unique()"
-Duplicates,".duplicated(), .drop_duplicates()"
-Filtering,"Boolean masks, .between(), ~ operator"
-Grouping,".groupby(), .agg(), .value_counts(), .mode()"
-Conditional Columns,np.where()
-Sorting,.sort_values()
-Reshaping,".reset_index(), .to_string()"
-Formatting,"f-strings, .round(), .apply()"g table_20261006.csv…]()
-
 
 
 ## Installation
